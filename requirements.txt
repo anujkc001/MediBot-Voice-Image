@@ -1,0 +1,13 @@
+====================================================================
+MediBot Tech Stack Dependencies & Explicit Version Specifications
+====================================================================
+UI & Web Application Frameworks
+gradio4.38.0streamlit1.36.0
+AI Models & Vision/LLM APIs
+groq0.9.0openai1.35.13
+Voice & Text-to-Speech (TTS)
+gTTS==2.5.1
+Image Processing & Utilities 
+Pillow==10.3.0
+Environment Management & Networking
+python-dotenv1.0.1requests2.32.3pydantic2.8.2numpy1.26.4
